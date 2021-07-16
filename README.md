@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/divyesh62121377" target="blank"><img src="https://img.shields.io/twitter/follow/divyesh62121377?logo=twitter&style=for-the-badge" alt="divyesh62121377" /></a> </p>
 
-- 🔭 I’m currently working on [a birthday website for my friends](https://github.com/divyesh1099/birthday_website.git)
+- 🔭 I’m currently working on an Open source project called [Awesome Portfolio Website](https://github.com/smaranjitghose/awesome-portfolio-websites)
 
 - 🌱 I’m currently learning **Flutter, java, Flask.**
 
