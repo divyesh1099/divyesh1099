@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Flutter, java, Flask.**
 
-- 👯 I’m looking to collaborate on [abc](https://someone.com)
+- 👯 I’m looking to collaborate on [Augur](https://github.com/chaoss/augur)
 
-- 🤝 I’m looking for help with [birthday website](https://github.com/divyesh1099/birthday_website.git)
+- 🤝 I’m looking for help with [Profanity Filter](https://github.com/divyesh1099/cyber_bully_website)
 
 - 👨‍💻 All of my projects are available at [https://github.com/divyesh1099](https://github.com/divyesh1099)
 
