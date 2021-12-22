@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Augur](https://github.com/chaoss/augur)
 
-- 🤝 I’m looking for help with [Profanity Filter](https://github.com/divyesh1099/cyber_bully_website)
+- 🤝 I’m looking for help with [Badboystyle](https://github.com/divyesh1099/badboystyle)
 
 - 👨‍💻 All of my projects are available at [https://github.com/divyesh1099](https://github.com/divyesh1099)
 
