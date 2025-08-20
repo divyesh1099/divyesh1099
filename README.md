@@ -1,48 +1,227 @@
-<h1 align="center">Heyo 👋, It's Divyesh Here. 😎 </h1>
-<h3 align="center">Enthusiastic Full Stack Web Developer | App Developer | Python Programmer | Student at Mumbai University</h3>
+<!-- ====== NEON CYBERPUNK HEADER ====== -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&fontSize=80&text=Divyesh%20Vishwakarma&fontAlignY=38&desc=GenAI%20Engineer%20•%20Full%20Stack%20•%20MLOps&descAlignY=60&color=0:0d1117,100:00FF41&fontColor=ffffff&animation=twinkling"
+    alt="header"
+    width="100%"
+  />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyesh1099&label=Profile%20views&color=0e75b6&style=flat" alt="divyesh1099" /> </p>
+<!-- ====== TYPING STRIP (BIGGER) ====== -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=1100&height=80&lines=GenAI+%26+NLP+%E2%9A%A1&lines=Full+Stack+%E2%80%A2+MLOps+%E2%80%A2+APIs&lines=I+ship+production-grade+AI+systems"
+    alt="typing"
+  />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyesh1099" alt="divyesh1099" /></a> </p>
+<!-- ====== QUICK LAUNCH + COUNTERS ====== -->
+<div align="center">
+  <a href="https://divyesh1099.github.io/">
+    <img src="https://img.shields.io/badge/LAUNCH%20MY%20INTERACTIVE%20TERMINAL-00FF41?style=for-the-badge&logo=matrix&logoColor=111" alt="Launch Terminal"/>
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=divyesh1099&style=for-the-badge&label=VISITORS" alt="visitors"/>
+  <img src="https://img.shields.io/github/followers/divyesh1099?label=Followers&style=for-the-badge" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/divyesh1099?affiliations=OWNER&style=for-the-badge" alt="stars"/>
+</div>
 
-<p align="left"> <a href="https://twitter.com/divyesh62121377" target="blank"><img src="https://img.shields.io/twitter/follow/divyesh62121377?logo=twitter&style=for-the-badge" alt="divyesh62121377" /></a> </p>
+<!-- ====== CONNECT ====== -->
+<h3 align="center">🔗 Connect</h3>
+<p align="center">
+  <a href="https://divyeshvishwakarma.com/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/divyesh-vishwakarma-621197175/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/divyesh1099"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/motidivya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000" alt="LeetCode"/></a>
+  <a href="mailto:divyesh1099@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
-- 🔭 I’m currently working on an Open source project called [GoParty](https://github.com/divyesh1099/goparty)
+<!-- ====== STACK ICONS (LARGE) ====== -->
+<h3 align="center">🛠️ Tech I Love</h3>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,html,css,react,nextjs,redux,tailwind,threejs,bootstrap,flask,django,fastapi,pytorch,tensorflow,opencv,postgres,mongodb,redis,dotnet,azure,aws,gcp,git,github,githubactions,docker,kubernetes,nginx,linux,raspberrypi&perline=10&theme=dark"
+    alt="skills"
+    width="1100"
+  />
+</p>
 
-- 🌱 I’m currently learning **Flutter, java, Flask.**
+<!-- ====== STATS GRID (BIG CARDS) ====== -->
+<h3 align="center">📊 Deep Stats (Neo-Tokyo Theme)</h3>
 
-- 👯 I’m looking to collaborate on [Augur](https://github.com/chaoss/augur)
+<p align="center">
+  <img height="200"
+       src="https://github-readme-stats.vercel.app/api?username=divyesh1099&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+       alt="GitHub stats"/>
+  <img height="200"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh1099&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=420"
+       alt="Top languages"/>
+</p>
 
-- 🤝 I’m looking for help with [GoParty](https://github.com/divyesh1099/goparty)
+<p align="center">
+  <img height="220"
+       src="https://streak-stats.demolab.com?user=divyesh1099&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+       alt="GitHub streak"/>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/divyesh1099](https://github.com/divyesh1099)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=divyesh1099&theme=tokyo-night&hide_border=true&area=true"
+    alt="activity graph"
+    width="100%"
+  />
+</p>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/divyesh-vishwakarma-621197175/](https://www.linkedin.com/in/divyesh-vishwakarma-621197175/)
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=divyesh1099&theme=matrix&no-frame=true&no-bg=true&margin-w=16&margin-h=16&row=2&column=4"
+    alt="trophies"
+    width="100%"
+  />
+</p>
 
-- 💬 Ask me about **Python, Django, Bootstrap**
+<!-- ====== PROBLEM-SOLVING ====== -->
+<h3 align="center">🧠 Problem-Solving & Community</h3>
 
-- 📫 How to reach me **divyesh1099@gmail.com**
+<!-- ====== LEETCODE HUB (BIG + CREATIVE) ====== -->
+<h3 align="center">🧠 LeetCode Hub</h3>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/divyesh-vishwakarma-621197175/](https://www.linkedin.com/in/divyesh-vishwakarma-621197175/)
+<!-- Main stats (big, clickable) -->
+<p align="center">
+  <a href="https://leetcode.com/motidivya/">
+    <img
+      src="https://leetcard.jacoblin.cool/motidivya?theme=chartreuse&font=Space_Mono&animation=true&border=0&radius=12"
+      alt="LeetCode Stats"
+      width="1000"
+    />
+  </a>
+</p>
 
-- ⚡ Fun fact **I love microprocessors (especially Arduino UNO)**
+<!-- Extras collapsed to keep the page tidy -->
+<details>
+  <summary><b>Show Activity, Contest Rating & 52-Week Heatmap</b></summary>
+  <br/>
+  <p align="center">
+    <img
+      src="https://leetcard.jacoblin.cool/motidivya?ext=activity&theme=chartreuse&font=Space_Mono&border=0&radius=12"
+      alt="LeetCode Recent Activity"
+      width="1000"
+    />
+  </p>
+  <p align="center">
+    <img
+      src="https://leetcard.jacoblin.cool/motidivya?ext=contest&theme=chartreuse&font=Space_Mono&border=0&radius=12"
+      alt="LeetCode Contest Rating"
+      width="1000"
+    />
+  </p>
+  <p align="center">
+    <img
+      src="https://leetcard.jacoblin.cool/motidivya?ext=heatmap&theme=chartreuse&font=Space_Mono&border=0&radius=12"
+      alt="LeetCode 52-Week Heatmap"
+      width="1000"
+    />
+  </p>
+</details>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- ====== PROJECTS ====== -->
+<h3 align="center">🚀 Featured Projects</h3>
 
-<h3 align="left">Connect with me:</h3>
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Bertify</b></td>
+      <td>LangChain &amp; LlamaIndex Q&amp;A on a 50k-doc corpus. Optimized for low-latency answer routing.</td>
+      <td>LangChain · LlamaIndex · BERT</td>
+    </tr>
+    <tr>
+      <td><b>resumeCustomizer</b></td>
+      <td>Tailors CVs to JDs via Gemini API. 500+ users with job-specific bullet suggestions.</td>
+      <td>Django · Gemini API · Python</td>
+    </tr>
+    <tr>
+      <td><b>dQueues</b></td>
+      <td>NSQ-style distributed task queue in Python. ~20k jobs/min in local benchmarks.</td>
+      <td>Python · AsyncIO · Sockets</td>
+    </tr>
+    <tr>
+      <td><b>BulkyBooks</b></td>
+      <td>Full e-commerce bookstore with Stripe + Azure CI/CD.</td>
+      <td>ASP.NET MVC · Stripe · Azure SQL</td>
+    </tr>
+  </tbody>
+</table>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/divyesh1099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/divyesh1099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://divyesh1099.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/divyesh-vishwakarma-621197175//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/divyesh.vishwakarma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/divyesh_1099/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Divyesh89473993)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/divyesh1099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/divyesh1099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13616221/divyesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC-EYI_rkPKzGecWSVe-h2LA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/divyesh1099)  
+<!-- ====== EXPERIENCE ====== -->
+<h3>💼 Professional Experience</h3>
 
+<details>
+  <summary><strong>Machine Learning Developer @ Indian Navy</strong> (May 2023 – Feb 2024)</summary>
+  <p>
+    • ARIMA + Holt-Winters forecaster → stock-out penalties −18 MINR, savings 6 MINR/year (MAPE ≈ 7%).<br/>
+    • Hardened REST &amp; gRPC (OAuth2 + rate-limits), 0 high-severity issues in BurpSuite.<br/>
+    • On-prem Anthos blueprint → install time &lt; 30 mins.<br/>
+    • Presented RoBERTa intent classifier (F1 0.86) + LangChain RAG (50k docs) → cleared for fleet roll-out.
+  </p>
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<details>
+  <summary><strong>Software Developer @ Zeus Learning</strong> (Jun 2022 – Mar 2023)</summary>
+  <p>
+    • Refactored ASP.NET MVC + SQL → P99 &lt; 300 ms; queries 45% faster.<br/>
+    • jQuery → Angular 13 + RxJS; bundle −35%; Lighthouse PWA 92+.<br/>
+    • Shopify GraphQL plugins → GMV +12%; Segment + GA4 analytics.<br/>
+    • k6 load tests (10k VUs) found &amp; fixed 3 memory leaks pre-prod.
+  </p>
+</details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyesh1099&show_icons=true&locale=en&layout=compact" alt="divyesh1099" /></p>
+<!-- ====== FUN ZONE 2.0 — CYBER ARCADE ====== -->
+<h3 align="center">🕹️ Cyber Arcade</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyesh1099&show_icons=true&locale=en" alt="divyesh1099" /></p>
+<!-- Neon marquee -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2200&pause=500&color=00FF41&center=true&vCenter=true&width=1100&height=80&lines=Press+Start+to+Hack+Reality;Matrix+Mode+%E2%9A%A1+Activated;Divyesh+%7C+Code.+Ship.+Repeat."
+    alt="arcade-typing"
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyesh1099&" alt="divyesh1099" /></p>
+<!-- Contribution Heatmap (full-width, clickable to profile) -->
+<p align="center">
+  <a href="https://github.com/divyesh1099">
+    <img
+      src="https://ghchart.rshah.org/00FF41/divyesh1099"
+      alt="GitHub contribution heatmap"
+      width="1000"
+    />
+  </a>
+</p>
 
-<p>(... moti❤️)</p>
+<!-- Matrix rain GIF (ambient) -->
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif"
+    alt="Matrix rain"
+    width="100%"
+  />
+</p>
+
+<!-- Achievements unlocked (fun, lightweight badges) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Achievement-Night%20Owl-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Night Owl"/>
+  <img src="https://img.shields.io/badge/Achievement-Keyboard%20Samurai-0d1117?style=for-the-badge&logo=mechanical-keyboard&logoColor=white" alt="Keyboard Samurai"/>
+  <img src="https://img.shields.io/badge/Achievement-Ship%20It%20Friday-0d1117?style=for-the-badge&logo=rocket&logoColor=white" alt="Ship It Friday"/>
+  <img src="https://img.shields.io/badge/Achievement-0xCoffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Coffee"/>
+</p>
+
+<p align="center">
+  Moti❤️
+</p>
+
